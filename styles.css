@@ -453,4 +453,8 @@ section::before, main section::before {
 @keyframes section-frame-animate {
     0% { filter: hue-rotate(0deg); }
     100% { filter: hue-rotate(360deg); }
+}
+
+#contact, #contact ul, #contact li, #contact a, #contact strong {
+    color: #fff !important;
 } 
